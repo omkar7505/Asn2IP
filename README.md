@@ -6,7 +6,7 @@ This repository contains both a Go and a Python implementation of the tool. The 
 ## Installation
 If you have Go installed, you can install Asn2IP using the following command:
 ```sh
-go install github.com/omkar7505/Asn2IP
+go install -v github.com/omkar7505/Asn2IP@latest
 ```
 
 ## Usage
